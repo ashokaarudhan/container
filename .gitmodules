@@ -1,0 +1,6 @@
+[submodule "documentation"]
+	path = documentation
+	url = https://github.com/ashokaarudhan/documentation
+[submodule "collaboration"]
+	path = collaboration
+	url = https://github.com/ashokaarudhan/collaboration
