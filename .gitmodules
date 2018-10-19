@@ -4,3 +4,6 @@
 [submodule "collaboration"]
 	path = collaboration
 	url = https://github.com/ashokaarudhan/collaboration
+[submodule "monitoring"]
+	path = monitoring
+	url = https://github.com/ashokaarudhan/monitoring
